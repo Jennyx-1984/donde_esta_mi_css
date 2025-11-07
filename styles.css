@@ -20,10 +20,6 @@ body {
     margin: 40px auto;
     border-radius: 25px;
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-   display: flex;
-  justify-content: center;
-  align-items: center; 
-  flex-direction: column; 
 }
 
 .title{
