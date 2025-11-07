@@ -64,7 +64,7 @@ a{
     width: 90%;
     height:50px;
     background-color: white;
-    border-color: rgb(231, 219, 219);
+    border:2px solid rgb(231, 219, 219);
     border-radius: 10px;
     display: flex;
     justify-content: center;
